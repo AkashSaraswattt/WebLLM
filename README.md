@@ -26,7 +26,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/WebLLM.git
+git clone https://github.com/Mohhit6075/WebLLM.git
 cd WebLLM
 npm install
 npm run dev
